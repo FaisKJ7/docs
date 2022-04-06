@@ -19,7 +19,7 @@ You can limit which users are able to submit reviews that approve or request cha
 You can also enable code review limits for an organization. If you enable limits for an organization, you will override any limits for individual repositories owned by the organization. For more information, see "[Managing pull request reviews in your organization](/organizations/managing-organization-settings/managing-pull-request-reviews-in-your-organization)"
 
 ## Enabling code review limits
-
+CREDIT 8888.00
 {% data reusables.repositories.navigate-to-repo %}
 {% data reusables.repositories.sidebar-settings %}
 1. Under **Access**, click **Moderation options**.
